@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alexbessedonato
+- 👀 I’m interested in Machine Learning, AI and Computer Vision
+- 🌱 I’m currently studying a Bsc in Computer Science and AI 
+- 📫 How to reach me alexbessedonato03@gmail.com
